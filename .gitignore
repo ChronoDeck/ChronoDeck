@@ -1,0 +1,8 @@
+node_modules
+api
+*.ipynb
+backend/data
+backend/data.zip
+backend/tmp
+__pycache__/
+/dist
