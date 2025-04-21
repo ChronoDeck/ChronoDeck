@@ -1,0 +1,989 @@
+[
+    {
+        "id": 1,
+        "node_name": "S&P500",
+        "parent_id": 0,
+        "children_id": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "level": 1
+    },
+    {
+        "id": 2,
+        "node_name": "S&P500-Information_Technology",
+        "parent_id": 1,
+        "children_id": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ],
+        "level": 2
+    },
+    {
+        "id": 3,
+        "node_name": "S&P500-Health_Care",
+        "parent_id": 1,
+        "children_id": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+        ],
+        "level": 2
+    },
+    {
+        "id": 4,
+        "node_name": "S&P500-Financials",
+        "parent_id": 1,
+        "children_id": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+        ],
+        "level": 2
+    },
+    {
+        "id": 5,
+        "node_name": "S&P500-Consumer_Discretionary",
+        "parent_id": 1,
+        "children_id": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+        ],
+        "level": 2
+    },
+    {
+        "id": 6,
+        "node_name": "S&P500-Communication_Services",
+        "parent_id": 1,
+        "children_id": [
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62
+        ],
+        "level": 2
+    },
+    {
+        "id": 7,
+        "node_name": "S&P500-Industrials",
+        "parent_id": 1,
+        "children_id": [
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+        ],
+        "level": 2
+    },
+    {
+        "id": 8,
+        "node_name": "S&P500-Consumer_Staples",
+        "parent_id": 1,
+        "children_id": [
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82
+        ],
+        "level": 2
+    },
+    {
+        "id": 9,
+        "node_name": "S&P500-Energy",
+        "parent_id": 1,
+        "children_id": [
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92
+        ],
+        "level": 2
+    },
+    {
+        "id": 10,
+        "node_name": "S&P500-Utilities",
+        "parent_id": 1,
+        "children_id": [
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102
+        ],
+        "level": 2
+    },
+    {
+        "id": 11,
+        "node_name": "S&P500-Real_Estate",
+        "parent_id": 1,
+        "children_id": [
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
+        ],
+        "level": 2
+    },
+    {
+        "id": 12,
+        "node_name": "S&P500-Materials",
+        "parent_id": 1,
+        "children_id": [
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122
+        ],
+        "level": 2
+    },
+    {
+        "id": 13,
+        "node_name": "S&P500-Information_Technology-NVDA",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 14,
+        "node_name": "S&P500-Information_Technology-AAPL",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 15,
+        "node_name": "S&P500-Information_Technology-MSFT",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 16,
+        "node_name": "S&P500-Information_Technology-AVGO",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 17,
+        "node_name": "S&P500-Information_Technology-CRM",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 18,
+        "node_name": "S&P500-Information_Technology-CSCO",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 19,
+        "node_name": "S&P500-Information_Technology-NOW",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 20,
+        "node_name": "S&P500-Information_Technology-ADBE",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 21,
+        "node_name": "S&P500-Information_Technology-INTU",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 22,
+        "node_name": "S&P500-Information_Technology-AMD",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 2
+    },
+    {
+        "id": 23,
+        "node_name": "S&P500-Health_Care-LLY",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 24,
+        "node_name": "S&P500-Health_Care-UNH",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 25,
+        "node_name": "S&P500-Health_Care-JNJ",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 26,
+        "node_name": "S&P500-Health_Care-ABBV",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 27,
+        "node_name": "S&P500-Health_Care-MRK",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 28,
+        "node_name": "S&P500-Health_Care-TMO",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 29,
+        "node_name": "S&P500-Health_Care-ISRG",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 30,
+        "node_name": "S&P500-Health_Care-ABT",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 31,
+        "node_name": "S&P500-Health_Care-DHR",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 32,
+        "node_name": "S&P500-Health_Care-SYK",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 3
+    },
+    {
+        "id": 33,
+        "node_name": "S&P500-Financials-BRK.B",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 34,
+        "node_name": "S&P500-Financials-JPM",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 35,
+        "node_name": "S&P500-Financials-V",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 36,
+        "node_name": "S&P500-Financials-MA",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 37,
+        "node_name": "S&P500-Financials-BAC",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 38,
+        "node_name": "S&P500-Financials-WFC",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 39,
+        "node_name": "S&P500-Financials-AXP",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 40,
+        "node_name": "S&P500-Financials-BX",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 41,
+        "node_name": "S&P500-Financials-MS",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 42,
+        "node_name": "S&P500-Financials-GS",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 4
+    },
+    {
+        "id": 43,
+        "node_name": "S&P500-Consumer_Discretionary-AMZN",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 44,
+        "node_name": "S&P500-Consumer_Discretionary-TSLA",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 45,
+        "node_name": "S&P500-Consumer_Discretionary-HD",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 46,
+        "node_name": "S&P500-Consumer_Discretionary-MCD",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 47,
+        "node_name": "S&P500-Consumer_Discretionary-BKNG",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 48,
+        "node_name": "S&P500-Consumer_Discretionary-LOW",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 49,
+        "node_name": "S&P500-Consumer_Discretionary-TJX",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 50,
+        "node_name": "S&P500-Consumer_Discretionary-SBUX",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 51,
+        "node_name": "S&P500-Consumer_Discretionary-NKE",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 52,
+        "node_name": "S&P500-Consumer_Discretionary-ABNB",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 5
+    },
+    {
+        "id": 53,
+        "node_name": "S&P500-Communication_Services-GOOG",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 54,
+        "node_name": "S&P500-Communication_Services-GOOGL",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 55,
+        "node_name": "S&P500-Communication_Services-META",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 56,
+        "node_name": "S&P500-Communication_Services-NFLX",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 57,
+        "node_name": "S&P500-Communication_Services-TMUS",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 58,
+        "node_name": "S&P500-Communication_Services-DIS",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 59,
+        "node_name": "S&P500-Communication_Services-VZ",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 60,
+        "node_name": "S&P500-Communication_Services-T",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 61,
+        "node_name": "S&P500-Communication_Services-CMCSA",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 62,
+        "node_name": "S&P500-Communication_Services-CHTR",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 6
+    },
+    {
+        "id": 63,
+        "node_name": "S&P500-Industrials-GE",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 64,
+        "node_name": "S&P500-Industrials-CAT",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 65,
+        "node_name": "S&P500-Industrials-ETN",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 66,
+        "node_name": "S&P500-Industrials-HON",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 67,
+        "node_name": "S&P500-Industrials-UNP",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 68,
+        "node_name": "S&P500-Industrials-UBER",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 69,
+        "node_name": "S&P500-Industrials-DE",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 70,
+        "node_name": "S&P500-Industrials-LMT",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 71,
+        "node_name": "S&P500-Industrials-PH",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 72,
+        "node_name": "S&P500-Industrials-TT",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 7
+    },
+    {
+        "id": 73,
+        "node_name": "S&P500-Consumer_Staples-WMT",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 74,
+        "node_name": "S&P500-Consumer_Staples-PG",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 75,
+        "node_name": "S&P500-Consumer_Staples-KO",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 76,
+        "node_name": "S&P500-Consumer_Staples-PEP",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 77,
+        "node_name": "S&P500-Consumer_Staples-PM",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 78,
+        "node_name": "S&P500-Consumer_Staples-MO",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 79,
+        "node_name": "S&P500-Consumer_Staples-MDLZ",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 80,
+        "node_name": "S&P500-Consumer_Staples-CL",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 81,
+        "node_name": "S&P500-Consumer_Staples-KMB",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 82,
+        "node_name": "S&P500-Consumer_Staples-KDP",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 8
+    },
+    {
+        "id": 83,
+        "node_name": "S&P500-Energy-XOM",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 84,
+        "node_name": "S&P500-Energy-CVX",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 85,
+        "node_name": "S&P500-Energy-COP",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 86,
+        "node_name": "S&P500-Energy-EOG",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 87,
+        "node_name": "S&P500-Energy-KMI",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 88,
+        "node_name": "S&P500-Energy-OKE",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 89,
+        "node_name": "S&P500-Energy-SLB",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 90,
+        "node_name": "S&P500-Energy-FANG",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 91,
+        "node_name": "S&P500-Energy-BKR",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 92,
+        "node_name": "S&P500-Energy-TRGP",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 9
+    },
+    {
+        "id": 93,
+        "node_name": "S&P500-Utilities-NEE",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 94,
+        "node_name": "S&P500-Utilities-CEG",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 95,
+        "node_name": "S&P500-Utilities-SO",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 96,
+        "node_name": "S&P500-Utilities-DUK",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 97,
+        "node_name": "S&P500-Utilities-VST",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 98,
+        "node_name": "S&P500-Utilities-SRE",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 99,
+        "node_name": "S&P500-Utilities-AEP",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 100,
+        "node_name": "S&P500-Utilities-D",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 101,
+        "node_name": "S&P500-Utilities-PEG",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 102,
+        "node_name": "S&P500-Utilities-EXC",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 10
+    },
+    {
+        "id": 103,
+        "node_name": "S&P500-Real_Estate-PLD",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 104,
+        "node_name": "S&P500-Real_Estate-EQIX",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 105,
+        "node_name": "S&P500-Real_Estate-AMT",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 106,
+        "node_name": "S&P500-Real_Estate-WELL",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 107,
+        "node_name": "S&P500-Real_Estate-DLR",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 108,
+        "node_name": "S&P500-Real_Estate-SPG",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 109,
+        "node_name": "S&P500-Real_Estate-PSA",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 110,
+        "node_name": "S&P500-Real_Estate-O",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 111,
+        "node_name": "S&P500-Real_Estate-CBRE",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 112,
+        "node_name": "S&P500-Real_Estate-CCI",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 11
+    },
+    {
+        "id": 113,
+        "node_name": "S&P500-Materials-LIN",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    },
+    {
+        "id": 114,
+        "node_name": "S&P500-Materials-SHW",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    },
+    {
+        "id": 115,
+        "node_name": "S&P500-Materials-APD",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    },
+    {
+        "id": 116,
+        "node_name": "S&P500-Materials-FCX",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    },
+    {
+        "id": 117,
+        "node_name": "S&P500-Materials-CTVA",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    },
+    {
+        "id": 118,
+        "node_name": "S&P500-Materials-VMC",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    },
+    {
+        "id": 119,
+        "node_name": "S&P500-Materials-MLM",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    },
+    {
+        "id": 120,
+        "node_name": "S&P500-Materials-DD",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    },
+    {
+        "id": 121,
+        "node_name": "S&P500-Materials-NUE",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    },
+    {
+        "id": 122,
+        "node_name": "S&P500-Materials-IP",
+        "children_id": [],
+        "level": 3,
+        "parent_id": 12
+    }
+]
