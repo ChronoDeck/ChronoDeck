@@ -1,0 +1,690 @@
+[
+    {
+        "id": 1,
+        "node_name": "AUS",
+        "parent_id": 0,
+        "children_id": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "level": 1
+    },
+    {
+        "id": 2,
+        "node_name": "AUS-South_Australia",
+        "parent_id": 1,
+        "children_id": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ],
+        "level": 2
+    },
+    {
+        "id": 3,
+        "node_name": "AUS-Northern_Territory",
+        "parent_id": 1,
+        "children_id": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+        ],
+        "level": 2
+    },
+    {
+        "id": 4,
+        "node_name": "AUS-Western_Australia",
+        "parent_id": 1,
+        "children_id": [
+            29,
+            30,
+            31,
+            32,
+            33
+        ],
+        "level": 2
+    },
+    {
+        "id": 5,
+        "node_name": "AUS-Victoria",
+        "parent_id": 1,
+        "children_id": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+        ],
+        "level": 2
+    },
+    {
+        "id": 6,
+        "node_name": "AUS-New_South_Wales",
+        "parent_id": 1,
+        "children_id": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+        ],
+        "level": 2
+    },
+    {
+        "id": 7,
+        "node_name": "AUS-Queensland",
+        "parent_id": 1,
+        "children_id": [
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79
+        ],
+        "level": 2
+    },
+    {
+        "id": 8,
+        "node_name": "AUS-ACT",
+        "parent_id": 1,
+        "children_id": [
+            80
+        ],
+        "level": 2
+    },
+    {
+        "id": 9,
+        "node_name": "AUS-Tasmania",
+        "parent_id": 1,
+        "children_id": [
+            81,
+            82,
+            83,
+            84,
+            85
+        ],
+        "level": 2
+    },
+    {
+        "id": 10,
+        "node_name": "AUS-South_Australia-Adelaide",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 11,
+        "node_name": "AUS-South_Australia-Adelaide_Hills",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 12,
+        "node_name": "AUS-South_Australia-Barossa",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 13,
+        "node_name": "AUS-South_Australia-Clare_Valley",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 14,
+        "node_name": "AUS-South_Australia-Eyre_Peninsula",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 15,
+        "node_name": "AUS-South_Australia-Fleurieu_Peninsula",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 16,
+        "node_name": "AUS-South_Australia-Flinders_Ranges_and_Outback",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 17,
+        "node_name": "AUS-South_Australia-Kangaroo_Island",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 18,
+        "node_name": "AUS-South_Australia-Limestone_Coast",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 19,
+        "node_name": "AUS-South_Australia-Murraylands",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 20,
+        "node_name": "AUS-South_Australia-Riverland",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 21,
+        "node_name": "AUS-South_Australia-Yorke_Peninsula",
+        "parent_id": 2,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 22,
+        "node_name": "AUS-Northern_Territory-Alice_Springs",
+        "parent_id": 3,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 23,
+        "node_name": "AUS-Northern_Territory-Barkly",
+        "parent_id": 3,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 24,
+        "node_name": "AUS-Northern_Territory-Darwin",
+        "parent_id": 3,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 25,
+        "node_name": "AUS-Northern_Territory-Kakadu_Arnhem",
+        "parent_id": 3,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 26,
+        "node_name": "AUS-Northern_Territory-Katherine_Daly",
+        "parent_id": 3,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 27,
+        "node_name": "AUS-Northern_Territory-Lasseter",
+        "parent_id": 3,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 28,
+        "node_name": "AUS-Northern_Territory-MacDonnell",
+        "parent_id": 3,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 29,
+        "node_name": "AUS-Western_Australia-Australia's_Coral_Coast",
+        "parent_id": 4,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 30,
+        "node_name": "AUS-Western_Australia-Australia's_Golden_Outback",
+        "parent_id": 4,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 31,
+        "node_name": "AUS-Western_Australia-Australia's_North_West",
+        "parent_id": 4,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 32,
+        "node_name": "AUS-Western_Australia-Australia's_South_West",
+        "parent_id": 4,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 33,
+        "node_name": "AUS-Western_Australia-Experience_Perth",
+        "parent_id": 4,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 34,
+        "node_name": "AUS-Victoria-Ballarat",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 35,
+        "node_name": "AUS-Victoria-Bendigo_Loddon",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 36,
+        "node_name": "AUS-Victoria-Central_Highlands",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 37,
+        "node_name": "AUS-Victoria-Central_Murray",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 38,
+        "node_name": "AUS-Victoria-Geelong_and_the_Bellarine",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 39,
+        "node_name": "AUS-Victoria-Gippsland",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 40,
+        "node_name": "AUS-Victoria-Goulburn",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 41,
+        "node_name": "AUS-Victoria-Great_Ocean_Road",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 42,
+        "node_name": "AUS-Victoria-High_Country",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 43,
+        "node_name": "AUS-Victoria-Lakes",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 44,
+        "node_name": "AUS-Victoria-Macedon",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 45,
+        "node_name": "AUS-Victoria-Mallee",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 46,
+        "node_name": "AUS-Victoria-Melbourne",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 47,
+        "node_name": "AUS-Victoria-Melbourne_East",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 48,
+        "node_name": "AUS-Victoria-Murray_East",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 49,
+        "node_name": "AUS-Victoria-Peninsula",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 50,
+        "node_name": "AUS-Victoria-Phillip_Island",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 51,
+        "node_name": "AUS-Victoria-Spa_Country",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 52,
+        "node_name": "AUS-Victoria-Upper_Yarra",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 53,
+        "node_name": "AUS-Victoria-Western_Grampians",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 54,
+        "node_name": "AUS-Victoria-Wimmera",
+        "parent_id": 5,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 55,
+        "node_name": "AUS-New_South_Wales-Blue_Mountains",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 56,
+        "node_name": "AUS-New_South_Wales-Capital_Country",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 57,
+        "node_name": "AUS-New_South_Wales-Central_Coast",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 58,
+        "node_name": "AUS-New_South_Wales-Central_NSW",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 59,
+        "node_name": "AUS-New_South_Wales-Hunter",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 60,
+        "node_name": "AUS-New_South_Wales-New_England_North_West",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 61,
+        "node_name": "AUS-New_South_Wales-North_Coast_NSW",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 62,
+        "node_name": "AUS-New_South_Wales-Outback_NSW",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 63,
+        "node_name": "AUS-New_South_Wales-Riverina",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 64,
+        "node_name": "AUS-New_South_Wales-Snowy_Mountains",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 65,
+        "node_name": "AUS-New_South_Wales-South_Coast",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 66,
+        "node_name": "AUS-New_South_Wales-Sydney",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 67,
+        "node_name": "AUS-New_South_Wales-The_Murray",
+        "parent_id": 6,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 68,
+        "node_name": "AUS-Queensland-Brisbane",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 69,
+        "node_name": "AUS-Queensland-Bundaberg",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 70,
+        "node_name": "AUS-Queensland-Central_Queensland",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 71,
+        "node_name": "AUS-Queensland-Darling_Downs",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 72,
+        "node_name": "AUS-Queensland-Fraser_Coast",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 73,
+        "node_name": "AUS-Queensland-Gold_Coast",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 74,
+        "node_name": "AUS-Queensland-Mackay",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 75,
+        "node_name": "AUS-Queensland-Northern",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 76,
+        "node_name": "AUS-Queensland-Outback",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 77,
+        "node_name": "AUS-Queensland-Sunshine_Coast",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 78,
+        "node_name": "AUS-Queensland-Tropical_North_Queensland",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 79,
+        "node_name": "AUS-Queensland-Whitsundays",
+        "parent_id": 7,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 80,
+        "node_name": "AUS-ACT-Canberra",
+        "parent_id": 8,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 81,
+        "node_name": "AUS-Tasmania-East_Coast",
+        "parent_id": 9,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 82,
+        "node_name": "AUS-Tasmania-Hobart_and_the_South",
+        "parent_id": 9,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 83,
+        "node_name": "AUS-Tasmania-Launceston,_Tamar_and_the_North",
+        "parent_id": 9,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 84,
+        "node_name": "AUS-Tasmania-North_West",
+        "parent_id": 9,
+        "children_id": [],
+        "level": 3
+    },
+    {
+        "id": 85,
+        "node_name": "AUS-Tasmania-Wilderness_West",
+        "parent_id": 9,
+        "children_id": [],
+        "level": 3
+    }
+]
