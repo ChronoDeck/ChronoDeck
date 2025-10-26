@@ -1,0 +1,9 @@
+node_modules
+api
+*.ipynb
+backend/tmp
+__pycache__/
+/dist
+backend/data/PV
+backend/data/Stock
+src/config/caseConfig_backup.js
